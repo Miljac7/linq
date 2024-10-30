@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\linq Metoda\linq Metoda\bin\Debug\linq Metoda.exe.config
+C:\Users\Ucenik\source\repos\linq Metoda\linq Metoda\bin\Debug\linq Metoda.exe
+C:\Users\Ucenik\source\repos\linq Metoda\linq Metoda\bin\Debug\linq Metoda.pdb
+C:\Users\Ucenik\source\repos\linq Metoda\linq Metoda\obj\Debug\linq Metoda.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\linq Metoda\linq Metoda\obj\Debug\linq Metoda.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\linq Metoda\linq Metoda\obj\Debug\linq Metoda.exe
+C:\Users\Ucenik\source\repos\linq Metoda\linq Metoda\obj\Debug\linq Metoda.pdb
